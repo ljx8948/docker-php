@@ -17,7 +17,7 @@
 </head>
 <body>
 	<img id="logo" src="logo.png" />
-	<h1><?php echo "Hello world!"; ?></h1>
+	<h1><?php echo "2016 SB LJX"; ?></h1>
 	<h2><?php echo "PHP runtime image, include Ubuntu, Apache, PHP5, except Mysql database"; ?></h2>
 </body>
 </html>
